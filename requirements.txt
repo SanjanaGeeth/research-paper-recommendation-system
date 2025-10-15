@@ -1,0 +1,45 @@
+# Core Python libraries
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+scipy==1.13.1
+
+# NLP and Transformers
+transformers==4.44.2
+torch==2.4.1
+sentence-transformers==3.1.0
+nltk==3.9.1
+
+# Explainability
+shap==0.45.1
+lime==0.2.0.1
+captum==0.7.0
+
+# Vector Search / Database
+faiss-cpu==1.8.0.post1
+pgvector==0.3.4
+psycopg2-binary==2.9.9
+
+# Data Extraction & Preprocessing
+yake==0.4.8
+beautifulsoup4==4.12.3
+requests==2.32.3
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.0
+
+# Web Framework / Frontend
+streamlit==1.38.0
+flask==3.0.3
+
+# Utilities
+tqdm==4.66.4
+python-dotenv==1.0.1
+PyYAML==6.0.2
+loguru==0.7.2
+
+# Testing / Evaluation
+pytest==8.3.3
+jupyterlab==4.2.4
