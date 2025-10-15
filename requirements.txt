@@ -1,5 +1,4 @@
 # Core Python libraries
-numpy
 pandas
 scikit-learn
 scipy
@@ -43,3 +42,4 @@ loguru
 # Testing / Evaluation
 pytest
 jupyterlab
+c
