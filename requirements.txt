@@ -1,4 +1,5 @@
 # Core Python libraries
+numpy>=2.1.0,<2.3.0
 pandas
 scikit-learn
 scipy
@@ -12,7 +13,6 @@ nltk
 # Explainability
 shap
 lime
-captum
 
 # Vector Search / Database
 faiss-cpu
@@ -42,4 +42,3 @@ loguru
 # Testing / Evaluation
 pytest
 jupyterlab
-c
